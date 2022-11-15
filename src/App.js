@@ -1,10 +1,10 @@
-import FriendList from './FriendList';
+import TodoList from './TodoList';
 import './App.css';
 
 function App() {
   return (
     <>
-    <FriendList />
+    <TodoList />
     </>
   
   )
